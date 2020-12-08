@@ -1,0 +1,16 @@
+C:\Users\santi\source\repos\Resident Evil 2 Modding Tools\Resident Evil 2 Modding Tools\bin\Release\Resident Evil 2 Modding Tools.exe.config
+C:\Users\santi\source\repos\Resident Evil 2 Modding Tools\Resident Evil 2 Modding Tools\bin\Release\Resident Evil 2 Modding Tools.exe
+C:\Users\santi\source\repos\Resident Evil 2 Modding Tools\Resident Evil 2 Modding Tools\bin\Release\Resident Evil 2 Modding Tools.pdb
+C:\Users\santi\source\repos\Resident Evil 2 Modding Tools\Resident Evil 2 Modding Tools\obj\Release\Resident_Evil_2_Modding_Tools.Form1.resources
+C:\Users\santi\source\repos\Resident Evil 2 Modding Tools\Resident Evil 2 Modding Tools\obj\Release\Resident_Evil_2_Modding_Tools.Properties.Resources.resources
+C:\Users\santi\source\repos\Resident Evil 2 Modding Tools\Resident Evil 2 Modding Tools\obj\Release\Resident_Evil_2_Modding_Tools.Tool_EnemyPlacement.resources
+C:\Users\santi\source\repos\Resident Evil 2 Modding Tools\Resident Evil 2 Modding Tools\obj\Release\Resident_Evil_2_Modding_Tools.Tool_GimmickEditor.resources
+C:\Users\santi\source\repos\Resident Evil 2 Modding Tools\Resident Evil 2 Modding Tools\obj\Release\Resident_Evil_2_Modding_Tools.Tool_ItemEditor.resources
+C:\Users\santi\source\repos\Resident Evil 2 Modding Tools\Resident Evil 2 Modding Tools\obj\Release\Resident_Evil_2_Modding_Tools.Tool_ItemEditor_Settings.resources
+C:\Users\santi\source\repos\Resident Evil 2 Modding Tools\Resident Evil 2 Modding Tools\obj\Release\Resident_Evil_2_Modding_Tools.Tool_RSZNameViewer.resources
+C:\Users\santi\source\repos\Resident Evil 2 Modding Tools\Resident Evil 2 Modding Tools\obj\Release\Resident_Evil_2_Modding_Tools.Tool_SCNNameEditor.resources
+C:\Users\santi\source\repos\Resident Evil 2 Modding Tools\Resident Evil 2 Modding Tools\obj\Release\Resident Evil 2 Modding Tools.csproj.GenerateResource.cache
+C:\Users\santi\source\repos\Resident Evil 2 Modding Tools\Resident Evil 2 Modding Tools\obj\Release\Resident Evil 2 Modding Tools.csproj.CoreCompileInputs.cache
+C:\Users\santi\source\repos\Resident Evil 2 Modding Tools\Resident Evil 2 Modding Tools\obj\Release\Resident Evil 2 Modding Tools.exe
+C:\Users\santi\source\repos\Resident Evil 2 Modding Tools\Resident Evil 2 Modding Tools\obj\Release\Resident Evil 2 Modding Tools.pdb
+C:\Users\santi\source\repos\Resident Evil 2 Modding Tools\Resident Evil 2 Modding Tools\obj\Release\Resident Evil 2 Modding Tools.csprojAssemblyReference.cache
